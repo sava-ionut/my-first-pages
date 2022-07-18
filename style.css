@@ -1,0 +1,71 @@
+.my-modal {
+    height: 90vh;
+}
+
+.btn-outline-success {
+    font-family: none;
+    display: none;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 50px 100px;
+    width: 200px;
+    height: 60px;
+    background-color: green;
+    color: white;
+    font-size: 2.5em;
+}
+
+.dialog-style {
+    width: 320px;
+    background-color: #ffffff99;
+    border: none;
+    box-shadow: 1px 3px 20px 0px #6c6464;
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+}
+
+h5 {
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+p {
+    text-transform: capitalize;
+    font-weight: 500;
+    margin: 0;
+}
+
+input.name-input {
+    border: groove;
+    margin-top: 5px;
+    width: 95%;
+}
+
+.click-close {
+    color: #5350d8;
+    border: none;
+    background-color: #fffafa00;
+    font-weight: 600;
+}
+
+.btn {
+    margin: 20px;
+}
+
+.sub-close {
+    display: flex;
+    justify-content: flex-end;
+}
+
+span {
+    color: #e3abb3e3;
+}
+
+p.last-text {
+    margin-top: 80vh;
+    color: #c6cace;
+}
